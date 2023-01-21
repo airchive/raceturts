@@ -1,5 +1,5 @@
 # 🪶 Raceturts
-A collection of useful files for new repository's scaffolding.  
+Racing game with colored turtles.  
 &nbsp;
 
 ## 📦 Installation  
