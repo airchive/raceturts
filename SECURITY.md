@@ -6,4 +6,4 @@
 | 1.x.x   | :white_check_mark: |
 
 ## Reporting a Vulnerability
-To report a vulnerability, open an [issue](https://github.com/airchive/drago/issues/new/choose).
+To report a vulnerability, open an [issue](https://github.com/airchive/raceturts/issues/new/choose).
